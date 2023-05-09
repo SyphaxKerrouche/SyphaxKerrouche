@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyphaxKerrouche
 - 👀 I’m interested in Dev
-- 📫 How to reach me by mail
+- 📫 How to reach me : Messages
 
 <!---
 SyphaxKerrouche/SyphaxKerrouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
